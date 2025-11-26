@@ -6,7 +6,7 @@ Analyzing customer purchase behavior to uncover insights that drive smarter mark
 ## 📖 Overview
 
 This project explores how data-driven insights can help a retail company understand its customers better and optimize key business decisions.  
-Using **Python**, **SQL**, and **Power BI**, I analyzed 10K+ customer transactions to uncover purchase patterns, discount effectiveness, and loyalty segments — transforming raw data into actionable business intelligence.
+Using **Python**, **SQL**, and **Power BI**, I analyzed 3.9K+ customer transactions to uncover purchase patterns, discount effectiveness, and loyalty segments — transforming raw data into actionable business intelligence.
 
 ---
 
